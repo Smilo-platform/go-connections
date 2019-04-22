@@ -1,6 +1,7 @@
 package sockets
 
 import (
+	"context"
 	"net"
 	"net/http"
 	"time"
